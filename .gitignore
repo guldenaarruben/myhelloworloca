@@ -1,5 +1,6 @@
 /out
 /svn
 .svn/
+.idea
 .idea/vcs.xml
 .idea/uiDesigner.xml
